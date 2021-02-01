@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>https://ayushtues.github.io/publication/</link>
-      <atom:link href="https://ayushtues.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>3 | Academic</title>
+    <link>https://ayushtues.github.io/publication-type/3/</link>
+      <atom:link href="https://ayushtues.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 17:28:32 +0530</lastBuildDate>
     <image>
       <url>https://ayushtues.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>https://ayushtues.github.io/publication/</link>
+      <title>3</title>
+      <link>https://ayushtues.github.io/publication-type/3/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>https://ayushtues.github.io/publication/deap/</link>
       <pubDate>Mon, 01 Feb 2021 17:28:28 +0530</pubDate>
       <guid>https://ayushtues.github.io/publication/deap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimodal Multi-Task Financial Risk Forecasting</title>
-      <link>https://ayushtues.github.io/publication/multimodal/</link>
-      <pubDate>Mon, 01 Feb 2021 17:20:54 +0530</pubDate>
-      <guid>https://ayushtues.github.io/publication/multimodal/</guid>
       <description></description>
     </item>
     

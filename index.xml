@@ -5,12 +5,28 @@
     <link>https://ayushtues.github.io/</link>
       <atom:link href="https://ayushtues.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 17:20:54 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 17:28:32 +0530</lastBuildDate>
     <image>
       <url>https://ayushtues.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>https://ayushtues.github.io/</link>
     </image>
+    
+    <item>
+      <title>Visual Relationship Detection using Scene Graphs: A Survey</title>
+      <link>https://ayushtues.github.io/publication/scene/</link>
+      <pubDate>Mon, 01 Feb 2021 17:28:32 +0530</pubDate>
+      <guid>https://ayushtues.github.io/publication/scene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache</title>
+      <link>https://ayushtues.github.io/publication/deap/</link>
+      <pubDate>Mon, 01 Feb 2021 17:28:28 +0530</pubDate>
+      <guid>https://ayushtues.github.io/publication/deap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multimodal Multi-Task Financial Risk Forecasting</title>
