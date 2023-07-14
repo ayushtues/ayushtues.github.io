@@ -1,180 +1,133 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://ayushtues.github.io/publication-type/1/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
+    <loc>https://example.com/home/skills/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home/accomplishments/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home/</loc>
+    <changefreq>weekly</changefreq>
   </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/publication-type/3/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/adam-w.-harley/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/aniket-agarwal/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/arnav-wadhwa/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/authors/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/ayush-mangal/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/jing-wen/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/katerina-fragkiadaki/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/publication/curriculum/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/publication_types/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/publication/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/rajiv-ratn-shah/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/ramit-sawhney/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/ritwick-chaudhry/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/shivam-agarwal/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/shubhankar-potdar/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/publication/track/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/vipul-kumar/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/publication/scene/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/vivek-mittal/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/yiming-zuo/</loc>
-    <lastmod>2021-02-01T17:28:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/publication/deap/</loc>
-    <lastmod>2021-02-01T17:28:28+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/jitesh-jain/</loc>
-    <lastmod>2021-02-01T17:28:28+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/keerat-kaur-gullani/</loc>
-    <lastmod>2021-02-01T17:28:28+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/omkar-bhalero/</loc>
-    <lastmod>2021-02-01T17:28:28+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/publication/multimodal/</loc>
-    <lastmod>2021-02-01T17:20:54+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/piyush-khanna/</loc>
-    <lastmod>2021-02-01T17:20:54+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/puneeth-mathur/</loc>
-    <lastmod>2021-02-01T17:20:54+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/roger-zimmermann/</loc>
-    <lastmod>2021-02-01T17:20:54+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/author/ayush-mangal/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ayushtues.github.io/tags/</loc>
-  </url>
-  
 </urlset>
