@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rl | Academic</title>
+    <link>https://example.com/tag/rl/</link>
+      <atom:link href="https://example.com/tag/rl/index.xml" rel="self" type="application/rss+xml" />
+    <description>rl</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jul 2023 16:39:40 +0530</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>rl</title>
+      <link>https://example.com/tag/rl/</link>
+    </image>
+    
+    <item>
+      <title>On the Expressivity of Markov Rewards</title>
+      <link>https://example.com/videos/markov/</link>
+      <pubDate>Sat, 15 Jul 2023 16:39:40 +0530</pubDate>
+      <guid>https://example.com/videos/markov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving RL Algorithms</title>
+      <link>https://example.com/videos/evolving_rl/</link>
+      <pubDate>Sat, 15 Jul 2023 16:39:35 +0530</pubDate>
+      <guid>https://example.com/videos/evolving_rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL Using Diffusion Models</title>
+      <link>https://example.com/videos/rl_diffusion/</link>
+      <pubDate>Sat, 15 Jul 2023 16:36:38 +0530</pubDate>
+      <guid>https://example.com/videos/rl_diffusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

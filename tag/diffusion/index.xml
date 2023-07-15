@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diffusion | Academic</title>
+    <link>https://example.com/tag/diffusion/</link>
+      <atom:link href="https://example.com/tag/diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>diffusion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jul 2023 16:33:32 +0530</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>diffusion</title>
+      <link>https://example.com/tag/diffusion/</link>
+    </image>
+    
+    <item>
+      <title>Textual Inversion</title>
+      <link>https://example.com/videos/textual_inversion/</link>
+      <pubDate>Sat, 15 Jul 2023 16:33:32 +0530</pubDate>
+      <guid>https://example.com/videos/textual_inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dreambooth</title>
+      <link>https://example.com/videos/dreambooth/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>https://example.com/videos/dreambooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompt2prompt</title>
+      <link>https://example.com/videos/prompt2prompt/</link>
+      <pubDate>Sat, 15 Jul 2023 16:29:44 +0530</pubDate>
+      <guid>https://example.com/videos/prompt2prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntstructPix2Pix</title>
+      <link>https://example.com/videos/instructpix2pix/</link>
+      <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
+      <guid>https://example.com/videos/instructpix2pix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
