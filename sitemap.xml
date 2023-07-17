@@ -2,18 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/home/skills/</loc>
+    <loc>https://example.com/project/ddpm_jax/</loc>
+    <lastmod>2023-07-17T11:39:29+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/home/accomplishments/</loc>
+    <loc>https://example.com/tag/paper-implementations/</loc>
+    <lastmod>2023-07-17T11:39:29+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://example.com/project/</loc>
+    <lastmod>2023-07-17T11:39:29+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-07-17T11:39:29+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/ddpm_torch/</loc>
+    <lastmod>2023-07-17T11:38:49+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/diffusers/</loc>
+    <lastmod>2023-07-17T11:38:36+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/kandinsky/</loc>
+    <lastmod>2023-07-17T11:38:36+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/consistency/</loc>
+    <lastmod>2023-07-17T11:38:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/videos/markov/</loc>
@@ -21,10 +39,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/rl/</loc>
-    <lastmod>2023-07-15T16:39:40+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2023-07-15T16:39:40+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -92,25 +106,30 @@
     <lastmod>2020-09-15T15:45:59+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/project/adda/</loc>
+    <lastmod>2020-07-17T11:41:39+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/vae/</loc>
+    <lastmod>2020-07-17T11:38:12+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/survey/</loc>
     <lastmod>2020-05-15T15:49:38+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/others/</loc>
+    <lastmod>2019-07-17T11:39:39+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://example.com/project/papers_we_read/</loc>
+    <lastmod>2019-07-17T11:39:39+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/home/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

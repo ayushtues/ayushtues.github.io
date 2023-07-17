@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jul 2023 11:39:29 +0530</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>DDPM Jax</title>
+      <link>https://example.com/project/ddpm_jax/</link>
+      <pubDate>Mon, 17 Jul 2023 11:39:29 +0530</pubDate>
+      <guid>https://example.com/project/ddpm_jax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDPM Pytorch</title>
+      <link>https://example.com/project/ddpm_torch/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:49 +0530</pubDate>
+      <guid>https://example.com/project/ddpm_torch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kandinsky 2.1, Diffusers</title>
+      <link>https://example.com/project/kandinsky/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:36 +0530</pubDate>
+      <guid>https://example.com/project/kandinsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency Models, Diffusers</title>
+      <link>https://example.com/project/consistency/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:26 +0530</pubDate>
+      <guid>https://example.com/project/consistency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADDA</title>
+      <link>https://example.com/project/adda/</link>
+      <pubDate>Fri, 17 Jul 2020 11:41:39 +0530</pubDate>
+      <guid>https://example.com/project/adda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genzoo - VAE</title>
+      <link>https://example.com/project/vae/</link>
+      <pubDate>Fri, 17 Jul 2020 11:38:12 +0530</pubDate>
+      <guid>https://example.com/project/vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers We Read</title>
+      <link>https://example.com/project/papers_we_read/</link>
+      <pubDate>Wed, 17 Jul 2019 11:39:39 +0530</pubDate>
+      <guid>https://example.com/project/papers_we_read/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
