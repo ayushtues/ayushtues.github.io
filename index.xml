@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Advanced RAG - FLARE</title>
+      <link>https://example.com/project/flare/</link>
+      <pubDate>Thu, 23 Nov 2023 11:38:26 +0530</pubDate>
+      <guid>https://example.com/project/flare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree of Thoughts</title>
+      <link>https://example.com/project/tot/</link>
+      <pubDate>Thu, 23 Nov 2023 11:38:26 +0530</pubDate>
+      <guid>https://example.com/project/tot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DDPM Jax</title>
       <link>https://example.com/project/ddpm_jax/</link>
       <pubDate>Mon, 17 Jul 2023 11:39:29 +0530</pubDate>
@@ -33,6 +49,14 @@
       <link>https://example.com/project/kandinsky/</link>
       <pubDate>Mon, 17 Jul 2023 11:38:36 +0530</pubDate>
       <guid>https://example.com/project/kandinsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLIP-Diffusion, Diffusers</title>
+      <link>https://example.com/project/blipdiffusion/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:26 +0530</pubDate>
+      <guid>https://example.com/project/blipdiffusion/</guid>
       <description></description>
     </item>
     
@@ -85,10 +109,42 @@
     </item>
     
     <item>
+      <title>Flash Attention</title>
+      <link>https://example.com/videos/flashattention/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>https://example.com/videos/flashattention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FrugalGPT</title>
+      <link>https://example.com/videos/frugalgpt/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>https://example.com/videos/frugalgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StreamingLLM</title>
+      <link>https://example.com/videos/streamingllm/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>https://example.com/videos/streamingllm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prompt2prompt</title>
       <link>https://example.com/videos/prompt2prompt/</link>
       <pubDate>Sat, 15 Jul 2023 16:29:44 +0530</pubDate>
       <guid>https://example.com/videos/prompt2prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InstaFlow</title>
+      <link>https://example.com/videos/instaflow/</link>
+      <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
+      <guid>https://example.com/videos/instaflow/</guid>
       <description></description>
     </item>
     

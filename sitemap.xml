@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/project/flare/</loc>
+    <lastmod>2023-11-23T11:38:26+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/llm/</loc>
+    <lastmod>2023-11-23T11:38:26+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/</loc>
+    <lastmod>2023-11-23T11:38:26+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-11-23T11:38:26+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/tot/</loc>
+    <lastmod>2023-11-23T11:38:26+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/project/ddpm_jax/</loc>
     <lastmod>2023-07-17T11:39:29+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/paper-implementations/</loc>
-    <lastmod>2023-07-17T11:39:29+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/</loc>
-    <lastmod>2023-07-17T11:39:29+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2023-07-17T11:39:29+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -28,6 +40,10 @@
   </url><url>
     <loc>https://example.com/project/kandinsky/</loc>
     <lastmod>2023-07-17T11:38:36+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/blipdiffusion/</loc>
+    <lastmod>2023-07-17T11:38:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/project/consistency/</loc>
@@ -66,8 +82,24 @@
     <lastmod>2023-07-15T16:32:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/videos/flashattention/</loc>
+    <lastmod>2023-07-15T16:32:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/videos/frugalgpt/</loc>
+    <lastmod>2023-07-15T16:32:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/videos/streamingllm/</loc>
+    <lastmod>2023-07-15T16:32:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/videos/prompt2prompt/</loc>
     <lastmod>2023-07-15T16:29:44+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/videos/instaflow/</loc>
+    <lastmod>2023-07-15T16:19:43+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/videos/instructpix2pix/</loc>

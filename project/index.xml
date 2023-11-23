@@ -5,12 +5,28 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jul 2023 11:39:29 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 11:38:26 +0530</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Advanced RAG - FLARE</title>
+      <link>https://example.com/project/flare/</link>
+      <pubDate>Thu, 23 Nov 2023 11:38:26 +0530</pubDate>
+      <guid>https://example.com/project/flare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree of Thoughts</title>
+      <link>https://example.com/project/tot/</link>
+      <pubDate>Thu, 23 Nov 2023 11:38:26 +0530</pubDate>
+      <guid>https://example.com/project/tot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DDPM Jax</title>
@@ -33,6 +49,14 @@
       <link>https://example.com/project/kandinsky/</link>
       <pubDate>Mon, 17 Jul 2023 11:38:36 +0530</pubDate>
       <guid>https://example.com/project/kandinsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLIP-Diffusion, Diffusers</title>
+      <link>https://example.com/project/blipdiffusion/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:26 +0530</pubDate>
+      <guid>https://example.com/project/blipdiffusion/</guid>
       <description></description>
     </item>
     
