@@ -30,21 +30,30 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ayushtues@gmail.com'
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    icon_pack: fab
+    link: https://twitter.com/ayush_tues
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: academicons/google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=9TPamcgAAAAJ&hl=en
   - icon: brands/github
-    url: https://github.com/gcushen
+    icon_pack: fab
+    link: https://github.com/ayushtues
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    icon_pack: fab
+    link: https://www.linkedin.com/ayushtues/
+  - icon: brands/medium
+    icon_pack: fab
+    link: https://ayushtues.medium.com/
+  - icon: brands/youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCGEWHZv8Gn10Lk56PzCeFMA
 
 interests:
 - Computer Vision
@@ -159,4 +168,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am a Research Engineer at [Gan.ai](https://gan.ai), helping machines speak!. Previously I was at Microsoft Bing Travel make their visual content make people go WoW :heart:. I am currently interested in using Deep learning to make awesome products.
+
+During my undergrad I had the pleasure of working in various academic research labs and startups on topics ranging from Computer Vision, to NLP, finance, reinforcement learning. I was also involved in leading various undergrad research groups, focusing on Deep Learning, Core CS, Quantum Computing and Blockchain.
+
+Professional stuff aside, I am a die-hard anime fan, an avid reader, wannabe Musician/Writer/Youtuber? lol (checkout my YT channel and Medium!) and a lifelong learner who's always up for a good conversation.
