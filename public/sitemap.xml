@@ -2,243 +2,243 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/event/example/</loc>
+    <loc>//localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>//localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/flare/</loc>
+    <loc>//localhost:1313/project/flare/</loc>
     <lastmod>2023-11-23T11:38:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/llm/</loc>
+    <loc>//localhost:1313/tags/llm/</loc>
     <lastmod>2023-11-23T11:38:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>//localhost:1313/project/</loc>
     <lastmod>2023-11-23T11:38:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2023-11-23T11:38:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/tot/</loc>
+    <loc>//localhost:1313/project/tot/</loc>
     <lastmod>2023-11-23T11:38:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/get-started/</loc>
+    <loc>//localhost:1313/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/academic/</loc>
+    <loc>//localhost:1313/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox/</loc>
+    <loc>//localhost:1313/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>//localhost:1313/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/second-brain/</loc>
+    <loc>//localhost:1313/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/second-brain/</loc>
+    <loc>//localhost:1313/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/data-visualization/</loc>
+    <loc>//localhost:1313/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>//localhost:1313/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/teach-courses/</loc>
+    <loc>//localhost:1313/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>//localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
+    <loc>//localhost:1313/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>//localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/js/</loc>
+    <loc>//localhost:1313/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/python/</loc>
+    <loc>//localhost:1313/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>//localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>//localhost:1313/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/project-management/</loc>
+    <loc>//localhost:1313/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/ddpm_jax/</loc>
+    <loc>//localhost:1313/project/ddpm_jax/</loc>
     <lastmod>2023-07-17T11:39:29+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/paper-implementations/</loc>
+    <loc>//localhost:1313/tags/paper-implementations/</loc>
     <lastmod>2023-07-17T11:39:29+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/ddpm_torch/</loc>
+    <loc>//localhost:1313/project/ddpm_torch/</loc>
     <lastmod>2023-07-17T11:38:49+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/diffusers/</loc>
+    <loc>//localhost:1313/tags/diffusers/</loc>
     <lastmod>2023-07-17T11:38:36+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/kandinsky/</loc>
+    <loc>//localhost:1313/project/kandinsky/</loc>
     <lastmod>2023-07-17T11:38:36+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/blipdiffusion/</loc>
+    <loc>//localhost:1313/project/blipdiffusion/</loc>
     <lastmod>2023-07-17T11:38:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/consistency/</loc>
+    <loc>//localhost:1313/project/consistency/</loc>
     <lastmod>2023-07-17T11:38:26+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/markov/</loc>
+    <loc>//localhost:1313/videos/markov/</loc>
     <lastmod>2023-07-15T16:39:40+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/rl/</loc>
+    <loc>//localhost:1313/tags/rl/</loc>
     <lastmod>2023-07-15T16:39:40+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/</loc>
+    <loc>//localhost:1313/videos/</loc>
     <lastmod>2023-07-15T16:39:40+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/evolving_rl/</loc>
+    <loc>//localhost:1313/videos/evolving_rl/</loc>
     <lastmod>2023-07-15T16:39:35+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/rl_diffusion/</loc>
+    <loc>//localhost:1313/videos/rl_diffusion/</loc>
     <lastmod>2023-07-15T16:36:38+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/diffusion/</loc>
+    <loc>//localhost:1313/tags/diffusion/</loc>
     <lastmod>2023-07-15T16:33:32+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/textual_inversion/</loc>
+    <loc>//localhost:1313/videos/textual_inversion/</loc>
     <lastmod>2023-07-15T16:33:32+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/dreambooth/</loc>
+    <loc>//localhost:1313/videos/dreambooth/</loc>
     <lastmod>2023-07-15T16:32:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/flashattention/</loc>
+    <loc>//localhost:1313/videos/flashattention/</loc>
     <lastmod>2023-07-15T16:32:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/frugalgpt/</loc>
+    <loc>//localhost:1313/videos/frugalgpt/</loc>
     <lastmod>2023-07-15T16:32:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/streamingllm/</loc>
+    <loc>//localhost:1313/videos/streamingllm/</loc>
     <lastmod>2023-07-15T16:32:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/prompt2prompt/</loc>
+    <loc>//localhost:1313/videos/prompt2prompt/</loc>
     <lastmod>2023-07-15T16:29:44+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/instaflow/</loc>
+    <loc>//localhost:1313/videos/instaflow/</loc>
     <lastmod>2023-07-15T16:19:43+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/videos/instructpix2pix/</loc>
+    <loc>//localhost:1313/videos/instructpix2pix/</loc>
     <lastmod>2023-07-15T16:19:43+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/1/</loc>
+    <loc>//localhost:1313/publication_types/1/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/uai/</loc>
+    <loc>//localhost:1313/publication/uai/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>//localhost:1313/publication_types/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>//localhost:1313/publication/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/temp/</loc>
+    <loc>//localhost:1313/publication/temp/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/acm/</loc>
+    <loc>//localhost:1313/publication/acm/</loc>
     <lastmod>2020-10-15T15:30:30+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/deap/</loc>
+    <loc>//localhost:1313/publication/deap/</loc>
     <lastmod>2020-09-15T15:45:59+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/adda/</loc>
+    <loc>//localhost:1313/project/adda/</loc>
     <lastmod>2020-07-17T11:41:39+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/vae/</loc>
+    <loc>//localhost:1313/project/vae/</loc>
     <lastmod>2020-07-17T11:38:12+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/survey/</loc>
+    <loc>//localhost:1313/publication/survey/</loc>
     <lastmod>2020-05-15T15:49:38+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/others/</loc>
+    <loc>//localhost:1313/tags/others/</loc>
     <lastmod>2019-07-17T11:39:39+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/papers_we_read/</loc>
+    <loc>//localhost:1313/project/papers_we_read/</loc>
     <lastmod>2019-07-17T11:39:39+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url>

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/publication_types/1/</link>
-      <atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/publication_types/1/</link>
+      <atom:link href="//localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>1</title>
-      <link>http://localhost:1313/publication_types/1/</link>
+      <link>//localhost:1313/publication_types/1/</link>
     </image>
     
     <item>
       <title>Modeling Financial Uncertainty with Multivariate Temporal Entropy‐based Curriculums (UAI 2021)</title>
-      <link>http://localhost:1313/publication/uai/</link>
+      <link>//localhost:1313/publication/uai/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/uai/</guid>
+      <guid>//localhost:1313/publication/uai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Track, Check, Repeat: An EM Approach to Unsupervised Tracking (CVPR 2021)</title>
-      <link>http://localhost:1313/publication/temp/</link>
+      <link>//localhost:1313/publication/temp/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/temp/</guid>
+      <guid>//localhost:1313/publication/temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Multi‐Task Financial Risk Forecasting (ACM MM 2020 - Oral)</title>
-      <link>http://localhost:1313/publication/acm/</link>
+      <link>//localhost:1313/publication/acm/</link>
       <pubDate>Thu, 15 Oct 2020 15:30:30 +0530</pubDate>
-      <guid>http://localhost:1313/publication/acm/</guid>
+      <guid>//localhost:1313/publication/acm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache (Submitted to AAAI 2021)</title>
-      <link>http://localhost:1313/publication/deap/</link>
+      <link>//localhost:1313/publication/deap/</link>
       <pubDate>Tue, 15 Sep 2020 15:45:59 +0530</pubDate>
-      <guid>http://localhost:1313/publication/deap/</guid>
+      <guid>//localhost:1313/publication/deap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Relationship Detection using Scene Graphs: A Survey (Submitted to ACM CSUR 2020</title>
-      <link>http://localhost:1313/publication/survey/</link>
+      <link>//localhost:1313/publication/survey/</link>
       <pubDate>Fri, 15 May 2020 15:49:38 +0530</pubDate>
-      <guid>http://localhost:1313/publication/survey/</guid>
+      <guid>//localhost:1313/publication/survey/</guid>
       <description></description>
     </item>
     

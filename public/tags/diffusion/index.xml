@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diffusion | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/diffusion/</link>
-      <atom:link href="http://localhost:1313/tags/diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tags/diffusion/</link>
+      <atom:link href="//localhost:1313/tags/diffusion/index.xml" rel="self" type="application/rss+xml" />
     <description>Diffusion</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jul 2023 16:33:32 +0530</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Diffusion</title>
-      <link>http://localhost:1313/tags/diffusion/</link>
+      <link>//localhost:1313/tags/diffusion/</link>
     </image>
     
     <item>
       <title>Textual Inversion</title>
-      <link>http://localhost:1313/videos/textual_inversion/</link>
+      <link>//localhost:1313/videos/textual_inversion/</link>
       <pubDate>Sat, 15 Jul 2023 16:33:32 +0530</pubDate>
-      <guid>http://localhost:1313/videos/textual_inversion/</guid>
+      <guid>//localhost:1313/videos/textual_inversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dreambooth</title>
-      <link>http://localhost:1313/videos/dreambooth/</link>
+      <link>//localhost:1313/videos/dreambooth/</link>
       <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
-      <guid>http://localhost:1313/videos/dreambooth/</guid>
+      <guid>//localhost:1313/videos/dreambooth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prompt2prompt</title>
-      <link>http://localhost:1313/videos/prompt2prompt/</link>
+      <link>//localhost:1313/videos/prompt2prompt/</link>
       <pubDate>Sat, 15 Jul 2023 16:29:44 +0530</pubDate>
-      <guid>http://localhost:1313/videos/prompt2prompt/</guid>
+      <guid>//localhost:1313/videos/prompt2prompt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>InstaFlow</title>
-      <link>http://localhost:1313/videos/instaflow/</link>
+      <link>//localhost:1313/videos/instaflow/</link>
       <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
-      <guid>http://localhost:1313/videos/instaflow/</guid>
+      <guid>//localhost:1313/videos/instaflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IntstructPix2Pix</title>
-      <link>http://localhost:1313/videos/instructpix2pix/</link>
+      <link>//localhost:1313/videos/instructpix2pix/</link>
       <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
-      <guid>http://localhost:1313/videos/instructpix2pix/</guid>
+      <guid>//localhost:1313/videos/instructpix2pix/</guid>
       <description></description>
     </item>
     

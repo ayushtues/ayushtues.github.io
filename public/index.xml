@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/</link>
+      <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Hugo Academic CV Theme</title>
-      <link>http://localhost:1313/</link>
+      <link>//localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>//localhost:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>//localhost:1313/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,33 +35,33 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>//localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>//localhost:1313/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advanced RAG - FLARE</title>
-      <link>http://localhost:1313/project/flare/</link>
+      <link>//localhost:1313/project/flare/</link>
       <pubDate>Thu, 23 Nov 2023 11:38:26 +0530</pubDate>
-      <guid>http://localhost:1313/project/flare/</guid>
+      <guid>//localhost:1313/project/flare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tree of Thoughts</title>
-      <link>http://localhost:1313/project/tot/</link>
+      <link>//localhost:1313/project/tot/</link>
       <pubDate>Thu, 23 Nov 2023 11:38:26 +0530</pubDate>
-      <guid>http://localhost:1313/project/tot/</guid>
+      <guid>//localhost:1313/project/tot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>//localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>//localhost:1313/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -145,9 +145,9 @@
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/post/second-brain/</link>
+      <link>//localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second-brain/</guid>
+      <guid>//localhost:1313/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -257,9 +257,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
+      <link>//localhost:1313/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
+      <guid>//localhost:1313/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -270,7 +270,7 @@
 
 
 
-&lt;div id=&#34;chart-193842675&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-862195347&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -288,7 +288,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-193842675&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-862195347&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -467,9 +467,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/post/teach-courses/</link>
+      <link>//localhost:1313/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/teach-courses/</guid>
+      <guid>//localhost:1313/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -519,7 +519,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;//localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -578,17 +578,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>//localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>//localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/js/</link>
+      <link>//localhost:1313/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/js/</guid>
+      <guid>//localhost:1313/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -632,7 +632,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;//localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -709,9 +709,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/python/</link>
+      <link>//localhost:1313/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/python/</guid>
+      <guid>//localhost:1313/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -755,7 +755,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;//localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -832,9 +832,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/post/project-management/</link>
+      <link>//localhost:1313/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project-management/</guid>
+      <guid>//localhost:1313/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -907,193 +907,193 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>DDPM Jax</title>
-      <link>http://localhost:1313/project/ddpm_jax/</link>
+      <link>//localhost:1313/project/ddpm_jax/</link>
       <pubDate>Mon, 17 Jul 2023 11:39:29 +0530</pubDate>
-      <guid>http://localhost:1313/project/ddpm_jax/</guid>
+      <guid>//localhost:1313/project/ddpm_jax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DDPM Pytorch</title>
-      <link>http://localhost:1313/project/ddpm_torch/</link>
+      <link>//localhost:1313/project/ddpm_torch/</link>
       <pubDate>Mon, 17 Jul 2023 11:38:49 +0530</pubDate>
-      <guid>http://localhost:1313/project/ddpm_torch/</guid>
+      <guid>//localhost:1313/project/ddpm_torch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kandinsky 2.1, Diffusers</title>
-      <link>http://localhost:1313/project/kandinsky/</link>
+      <link>//localhost:1313/project/kandinsky/</link>
       <pubDate>Mon, 17 Jul 2023 11:38:36 +0530</pubDate>
-      <guid>http://localhost:1313/project/kandinsky/</guid>
+      <guid>//localhost:1313/project/kandinsky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BLIP-Diffusion, Diffusers</title>
-      <link>http://localhost:1313/project/blipdiffusion/</link>
+      <link>//localhost:1313/project/blipdiffusion/</link>
       <pubDate>Mon, 17 Jul 2023 11:38:26 +0530</pubDate>
-      <guid>http://localhost:1313/project/blipdiffusion/</guid>
+      <guid>//localhost:1313/project/blipdiffusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consistency Models, Diffusers</title>
-      <link>http://localhost:1313/project/consistency/</link>
+      <link>//localhost:1313/project/consistency/</link>
       <pubDate>Mon, 17 Jul 2023 11:38:26 +0530</pubDate>
-      <guid>http://localhost:1313/project/consistency/</guid>
+      <guid>//localhost:1313/project/consistency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Expressivity of Markov Rewards</title>
-      <link>http://localhost:1313/videos/markov/</link>
+      <link>//localhost:1313/videos/markov/</link>
       <pubDate>Sat, 15 Jul 2023 16:39:40 +0530</pubDate>
-      <guid>http://localhost:1313/videos/markov/</guid>
+      <guid>//localhost:1313/videos/markov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolving RL Algorithms</title>
-      <link>http://localhost:1313/videos/evolving_rl/</link>
+      <link>//localhost:1313/videos/evolving_rl/</link>
       <pubDate>Sat, 15 Jul 2023 16:39:35 +0530</pubDate>
-      <guid>http://localhost:1313/videos/evolving_rl/</guid>
+      <guid>//localhost:1313/videos/evolving_rl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RL Using Diffusion Models</title>
-      <link>http://localhost:1313/videos/rl_diffusion/</link>
+      <link>//localhost:1313/videos/rl_diffusion/</link>
       <pubDate>Sat, 15 Jul 2023 16:36:38 +0530</pubDate>
-      <guid>http://localhost:1313/videos/rl_diffusion/</guid>
+      <guid>//localhost:1313/videos/rl_diffusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Textual Inversion</title>
-      <link>http://localhost:1313/videos/textual_inversion/</link>
+      <link>//localhost:1313/videos/textual_inversion/</link>
       <pubDate>Sat, 15 Jul 2023 16:33:32 +0530</pubDate>
-      <guid>http://localhost:1313/videos/textual_inversion/</guid>
+      <guid>//localhost:1313/videos/textual_inversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dreambooth</title>
-      <link>http://localhost:1313/videos/dreambooth/</link>
+      <link>//localhost:1313/videos/dreambooth/</link>
       <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
-      <guid>http://localhost:1313/videos/dreambooth/</guid>
+      <guid>//localhost:1313/videos/dreambooth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flash Attention</title>
-      <link>http://localhost:1313/videos/flashattention/</link>
+      <link>//localhost:1313/videos/flashattention/</link>
       <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
-      <guid>http://localhost:1313/videos/flashattention/</guid>
+      <guid>//localhost:1313/videos/flashattention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FrugalGPT</title>
-      <link>http://localhost:1313/videos/frugalgpt/</link>
+      <link>//localhost:1313/videos/frugalgpt/</link>
       <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
-      <guid>http://localhost:1313/videos/frugalgpt/</guid>
+      <guid>//localhost:1313/videos/frugalgpt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>StreamingLLM</title>
-      <link>http://localhost:1313/videos/streamingllm/</link>
+      <link>//localhost:1313/videos/streamingllm/</link>
       <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
-      <guid>http://localhost:1313/videos/streamingllm/</guid>
+      <guid>//localhost:1313/videos/streamingllm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prompt2prompt</title>
-      <link>http://localhost:1313/videos/prompt2prompt/</link>
+      <link>//localhost:1313/videos/prompt2prompt/</link>
       <pubDate>Sat, 15 Jul 2023 16:29:44 +0530</pubDate>
-      <guid>http://localhost:1313/videos/prompt2prompt/</guid>
+      <guid>//localhost:1313/videos/prompt2prompt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>InstaFlow</title>
-      <link>http://localhost:1313/videos/instaflow/</link>
+      <link>//localhost:1313/videos/instaflow/</link>
       <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
-      <guid>http://localhost:1313/videos/instaflow/</guid>
+      <guid>//localhost:1313/videos/instaflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IntstructPix2Pix</title>
-      <link>http://localhost:1313/videos/instructpix2pix/</link>
+      <link>//localhost:1313/videos/instructpix2pix/</link>
       <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
-      <guid>http://localhost:1313/videos/instructpix2pix/</guid>
+      <guid>//localhost:1313/videos/instructpix2pix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Financial Uncertainty with Multivariate Temporal Entropy‐based Curriculums (UAI 2021)</title>
-      <link>http://localhost:1313/publication/uai/</link>
+      <link>//localhost:1313/publication/uai/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/uai/</guid>
+      <guid>//localhost:1313/publication/uai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Track, Check, Repeat: An EM Approach to Unsupervised Tracking (CVPR 2021)</title>
-      <link>http://localhost:1313/publication/temp/</link>
+      <link>//localhost:1313/publication/temp/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/temp/</guid>
+      <guid>//localhost:1313/publication/temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Multi‐Task Financial Risk Forecasting (ACM MM 2020 - Oral)</title>
-      <link>http://localhost:1313/publication/acm/</link>
+      <link>//localhost:1313/publication/acm/</link>
       <pubDate>Thu, 15 Oct 2020 15:30:30 +0530</pubDate>
-      <guid>http://localhost:1313/publication/acm/</guid>
+      <guid>//localhost:1313/publication/acm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache (Submitted to AAAI 2021)</title>
-      <link>http://localhost:1313/publication/deap/</link>
+      <link>//localhost:1313/publication/deap/</link>
       <pubDate>Tue, 15 Sep 2020 15:45:59 +0530</pubDate>
-      <guid>http://localhost:1313/publication/deap/</guid>
+      <guid>//localhost:1313/publication/deap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ADDA</title>
-      <link>http://localhost:1313/project/adda/</link>
+      <link>//localhost:1313/project/adda/</link>
       <pubDate>Fri, 17 Jul 2020 11:41:39 +0530</pubDate>
-      <guid>http://localhost:1313/project/adda/</guid>
+      <guid>//localhost:1313/project/adda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genzoo - VAE</title>
-      <link>http://localhost:1313/project/vae/</link>
+      <link>//localhost:1313/project/vae/</link>
       <pubDate>Fri, 17 Jul 2020 11:38:12 +0530</pubDate>
-      <guid>http://localhost:1313/project/vae/</guid>
+      <guid>//localhost:1313/project/vae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Relationship Detection using Scene Graphs: A Survey (Submitted to ACM CSUR 2020</title>
-      <link>http://localhost:1313/publication/survey/</link>
+      <link>//localhost:1313/publication/survey/</link>
       <pubDate>Fri, 15 May 2020 15:49:38 +0530</pubDate>
-      <guid>http://localhost:1313/publication/survey/</guid>
+      <guid>//localhost:1313/publication/survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Papers We Read</title>
-      <link>http://localhost:1313/project/papers_we_read/</link>
+      <link>//localhost:1313/project/papers_we_read/</link>
       <pubDate>Wed, 17 Jul 2019 11:39:39 +0530</pubDate>
-      <guid>http://localhost:1313/project/papers_we_read/</guid>
+      <guid>//localhost:1313/project/papers_we_read/</guid>
       <description></description>
     </item>
     
