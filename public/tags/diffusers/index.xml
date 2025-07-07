@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diffusers | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/diffusers/</link>
+      <atom:link href="http://localhost:1313/tags/diffusers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diffusers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jul 2023 11:38:36 +0530</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Diffusers</title>
+      <link>http://localhost:1313/tags/diffusers/</link>
+    </image>
+    
+    <item>
+      <title>Kandinsky 2.1, Diffusers</title>
+      <link>http://localhost:1313/project/kandinsky/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:36 +0530</pubDate>
+      <guid>http://localhost:1313/project/kandinsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLIP-Diffusion, Diffusers</title>
+      <link>http://localhost:1313/project/blipdiffusion/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:26 +0530</pubDate>
+      <guid>http://localhost:1313/project/blipdiffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency Models, Diffusers</title>
+      <link>http://localhost:1313/project/consistency/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:26 +0530</pubDate>
+      <guid>http://localhost:1313/project/consistency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

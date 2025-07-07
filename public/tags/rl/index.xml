@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rl | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/rl/</link>
+      <atom:link href="http://localhost:1313/tags/rl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rl</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jul 2023 16:39:40 +0530</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Rl</title>
+      <link>http://localhost:1313/tags/rl/</link>
+    </image>
+    
+    <item>
+      <title>On the Expressivity of Markov Rewards</title>
+      <link>http://localhost:1313/videos/markov/</link>
+      <pubDate>Sat, 15 Jul 2023 16:39:40 +0530</pubDate>
+      <guid>http://localhost:1313/videos/markov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving RL Algorithms</title>
+      <link>http://localhost:1313/videos/evolving_rl/</link>
+      <pubDate>Sat, 15 Jul 2023 16:39:35 +0530</pubDate>
+      <guid>http://localhost:1313/videos/evolving_rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL Using Diffusion Models</title>
+      <link>http://localhost:1313/videos/rl_diffusion/</link>
+      <pubDate>Sat, 15 Jul 2023 16:36:38 +0530</pubDate>
+      <guid>http://localhost:1313/videos/rl_diffusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

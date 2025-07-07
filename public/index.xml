@@ -42,6 +42,22 @@
     </item>
     
     <item>
+      <title>Advanced RAG - FLARE</title>
+      <link>http://localhost:1313/project/flare/</link>
+      <pubDate>Thu, 23 Nov 2023 11:38:26 +0530</pubDate>
+      <guid>http://localhost:1313/project/flare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree of Thoughts</title>
+      <link>http://localhost:1313/project/tot/</link>
+      <pubDate>Thu, 23 Nov 2023 11:38:26 +0530</pubDate>
+      <guid>http://localhost:1313/project/tot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -125,30 +141,6 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -278,7 +270,7 @@
 
 
 
-&lt;div id=&#34;chart-463257981&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-193842675&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +288,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-463257981&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-193842675&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -914,6 +906,134 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>DDPM Jax</title>
+      <link>http://localhost:1313/project/ddpm_jax/</link>
+      <pubDate>Mon, 17 Jul 2023 11:39:29 +0530</pubDate>
+      <guid>http://localhost:1313/project/ddpm_jax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDPM Pytorch</title>
+      <link>http://localhost:1313/project/ddpm_torch/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:49 +0530</pubDate>
+      <guid>http://localhost:1313/project/ddpm_torch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kandinsky 2.1, Diffusers</title>
+      <link>http://localhost:1313/project/kandinsky/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:36 +0530</pubDate>
+      <guid>http://localhost:1313/project/kandinsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLIP-Diffusion, Diffusers</title>
+      <link>http://localhost:1313/project/blipdiffusion/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:26 +0530</pubDate>
+      <guid>http://localhost:1313/project/blipdiffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency Models, Diffusers</title>
+      <link>http://localhost:1313/project/consistency/</link>
+      <pubDate>Mon, 17 Jul 2023 11:38:26 +0530</pubDate>
+      <guid>http://localhost:1313/project/consistency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Expressivity of Markov Rewards</title>
+      <link>http://localhost:1313/videos/markov/</link>
+      <pubDate>Sat, 15 Jul 2023 16:39:40 +0530</pubDate>
+      <guid>http://localhost:1313/videos/markov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving RL Algorithms</title>
+      <link>http://localhost:1313/videos/evolving_rl/</link>
+      <pubDate>Sat, 15 Jul 2023 16:39:35 +0530</pubDate>
+      <guid>http://localhost:1313/videos/evolving_rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL Using Diffusion Models</title>
+      <link>http://localhost:1313/videos/rl_diffusion/</link>
+      <pubDate>Sat, 15 Jul 2023 16:36:38 +0530</pubDate>
+      <guid>http://localhost:1313/videos/rl_diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual Inversion</title>
+      <link>http://localhost:1313/videos/textual_inversion/</link>
+      <pubDate>Sat, 15 Jul 2023 16:33:32 +0530</pubDate>
+      <guid>http://localhost:1313/videos/textual_inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dreambooth</title>
+      <link>http://localhost:1313/videos/dreambooth/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>http://localhost:1313/videos/dreambooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flash Attention</title>
+      <link>http://localhost:1313/videos/flashattention/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>http://localhost:1313/videos/flashattention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FrugalGPT</title>
+      <link>http://localhost:1313/videos/frugalgpt/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>http://localhost:1313/videos/frugalgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StreamingLLM</title>
+      <link>http://localhost:1313/videos/streamingllm/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>http://localhost:1313/videos/streamingllm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompt2prompt</title>
+      <link>http://localhost:1313/videos/prompt2prompt/</link>
+      <pubDate>Sat, 15 Jul 2023 16:29:44 +0530</pubDate>
+      <guid>http://localhost:1313/videos/prompt2prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InstaFlow</title>
+      <link>http://localhost:1313/videos/instaflow/</link>
+      <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
+      <guid>http://localhost:1313/videos/instaflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntstructPix2Pix</title>
+      <link>http://localhost:1313/videos/instructpix2pix/</link>
+      <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
+      <guid>http://localhost:1313/videos/instructpix2pix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling Financial Uncertainty with Multivariate Temporal Entropy‐based Curriculums (UAI 2021)</title>
       <link>http://localhost:1313/publication/uai/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
@@ -946,10 +1066,34 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>ADDA</title>
+      <link>http://localhost:1313/project/adda/</link>
+      <pubDate>Fri, 17 Jul 2020 11:41:39 +0530</pubDate>
+      <guid>http://localhost:1313/project/adda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genzoo - VAE</title>
+      <link>http://localhost:1313/project/vae/</link>
+      <pubDate>Fri, 17 Jul 2020 11:38:12 +0530</pubDate>
+      <guid>http://localhost:1313/project/vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visual Relationship Detection using Scene Graphs: A Survey (Submitted to ACM CSUR 2020</title>
       <link>http://localhost:1313/publication/survey/</link>
       <pubDate>Fri, 15 May 2020 15:49:38 +0530</pubDate>
       <guid>http://localhost:1313/publication/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers We Read</title>
+      <link>http://localhost:1313/project/papers_we_read/</link>
+      <pubDate>Wed, 17 Jul 2019 11:39:39 +0530</pubDate>
+      <guid>http://localhost:1313/project/papers_we_read/</guid>
       <description></description>
     </item>
     

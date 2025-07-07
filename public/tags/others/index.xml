@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/others/</link>
+      <atom:link href="http://localhost:1313/tags/others/index.xml" rel="self" type="application/rss+xml" />
+    <description>Others</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jul 2019 11:39:39 +0530</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Others</title>
+      <link>http://localhost:1313/tags/others/</link>
+    </image>
+    
+    <item>
+      <title>Papers We Read</title>
+      <link>http://localhost:1313/project/papers_we_read/</link>
+      <pubDate>Wed, 17 Jul 2019 11:39:39 +0530</pubDate>
+      <guid>http://localhost:1313/project/papers_we_read/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

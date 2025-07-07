@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/videos/</link>
+      <atom:link href="http://localhost:1313/videos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Videos</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jul 2023 16:39:40 +0530</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Videos</title>
+      <link>http://localhost:1313/videos/</link>
+    </image>
+    
+    <item>
+      <title>On the Expressivity of Markov Rewards</title>
+      <link>http://localhost:1313/videos/markov/</link>
+      <pubDate>Sat, 15 Jul 2023 16:39:40 +0530</pubDate>
+      <guid>http://localhost:1313/videos/markov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving RL Algorithms</title>
+      <link>http://localhost:1313/videos/evolving_rl/</link>
+      <pubDate>Sat, 15 Jul 2023 16:39:35 +0530</pubDate>
+      <guid>http://localhost:1313/videos/evolving_rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL Using Diffusion Models</title>
+      <link>http://localhost:1313/videos/rl_diffusion/</link>
+      <pubDate>Sat, 15 Jul 2023 16:36:38 +0530</pubDate>
+      <guid>http://localhost:1313/videos/rl_diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual Inversion</title>
+      <link>http://localhost:1313/videos/textual_inversion/</link>
+      <pubDate>Sat, 15 Jul 2023 16:33:32 +0530</pubDate>
+      <guid>http://localhost:1313/videos/textual_inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dreambooth</title>
+      <link>http://localhost:1313/videos/dreambooth/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>http://localhost:1313/videos/dreambooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flash Attention</title>
+      <link>http://localhost:1313/videos/flashattention/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>http://localhost:1313/videos/flashattention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FrugalGPT</title>
+      <link>http://localhost:1313/videos/frugalgpt/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>http://localhost:1313/videos/frugalgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StreamingLLM</title>
+      <link>http://localhost:1313/videos/streamingllm/</link>
+      <pubDate>Sat, 15 Jul 2023 16:32:00 +0530</pubDate>
+      <guid>http://localhost:1313/videos/streamingllm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompt2prompt</title>
+      <link>http://localhost:1313/videos/prompt2prompt/</link>
+      <pubDate>Sat, 15 Jul 2023 16:29:44 +0530</pubDate>
+      <guid>http://localhost:1313/videos/prompt2prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InstaFlow</title>
+      <link>http://localhost:1313/videos/instaflow/</link>
+      <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
+      <guid>http://localhost:1313/videos/instaflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntstructPix2Pix</title>
+      <link>http://localhost:1313/videos/instructpix2pix/</link>
+      <pubDate>Sat, 15 Jul 2023 16:19:43 +0530</pubDate>
+      <guid>http://localhost:1313/videos/instructpix2pix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,8 +10,8 @@ first_name: Ayush
 last_name: Mangal
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -48,9 +48,9 @@ profiles:
   - icon: brands/linkedin
     icon_pack: fab
     link: https://www.linkedin.com/ayushtues/
-  - icon: brands/medium
-    icon_pack: fab
-    link: https://ayushtues.medium.com/
+  # - icon: brands/medium
+  #   icon_pack: fab
+  #   link: https://ayushtues.medium.com/
   - icon: brands/youtube
     icon_pack: fab
     link: https://www.youtube.com/channel/UCGEWHZv8Gn10Lk56PzCeFMA
