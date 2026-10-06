@@ -56,12 +56,16 @@ profiles:
     link: https://www.youtube.com/channel/UCGEWHZv8Gn10Lk56PzCeFMA
 
 interests:
-- Computer Vision
-- NLP, MLOps
-- Content Creation
+- Robot learning
+- Reinforcement Learning
+- Generative Modelling
 - Anything and everything :P 
 
 education:
+  - area: Masters in Robotics 
+    institution: Carnegie Mellon University
+    date_start: 2026-08-22
+    date_end: 2028-05-10
   - area: B.Tech. in Computer Science 
     institution: Indian Institute of Technology Roorkee
     date_start: 2018-05-10
