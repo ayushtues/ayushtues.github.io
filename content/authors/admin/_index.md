@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Engineer
+role: First year MSR
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Gan.ai
-    url: https://gan.ai/
+  - name: CMU
+    url: https://www.ri.cmu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,7 +47,7 @@ profiles:
     link: https://github.com/ayushtues
   - icon: brands/linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/ayushtues/
+    link: https://www.linkedin.com/in/ayushtues/
   # - icon: brands/medium
   #   icon_pack: fab
   #   link: https://ayushtues.medium.com/
@@ -67,79 +67,13 @@ education:
     date_start: 2018-05-10
     date_end: 2022-05-10
 
-
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-
 ---
 
 ## About Me
 
-Hi! I am a Research Engineer at [Gan.ai](https://gan.ai), helping machines speak!. Previously I was at Microsoft Bing Travel make their visual content make people go WoW :heart:. I am currently interested in using Deep learning to make awesome products.
+Hi! I am a first year MSR student at CMU, where I am fortunate to be advised by [Professor Shubham Tulsiani](https://shubhtuls.github.io/) and [Professor Deva Ramanan](https://www.cs.cmu.edu/~deva/). I am broadly interested in robot learning and reinforcement learning, and understanding what makes their modern algorithms tick.
+
+In a previous life, I worked on building foundational speech models at [Smallest.ai](https://smallest.ai/) and Gan.ai. Even before that I was at Microsoft Bing Travel make their visual content make people go WoW :heart: 
 
 During my undergrad I had the pleasure of working in various academic research labs and startups on topics ranging from Computer Vision, to NLP, finance, reinforcement learning. I was also involved in leading various undergrad research groups, focusing on Deep Learning, Core CS, Quantum Computing and Blockchain.
 

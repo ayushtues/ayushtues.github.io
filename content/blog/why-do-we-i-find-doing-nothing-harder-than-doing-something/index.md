@@ -1,0 +1,26 @@
+---
+title: "Why do we ( I )find doing nothing, harder than doing something?"
+summary: "Sometimes, doing nothing is the hardest thing one can do"
+date: 2021-02-28
+authors:
+  - admin
+# Originally published on Medium: https://medium.com/@ayushtues/why-do-we-i-find-doing-nothing-harder-than-doing-something-2e90a809acc3
+---
+
+> This is probably going to be a very short one, and it’s kind of going to be raw and abstract, with a lot of errors, basically, for all practical purposes, it's just a rant lol, so feel free to skip over to something more indulging and interesting.
+
+So this post has a lot to do with the fact that I am writing this post lol, cause it’s a Sunday, a day meant for people to relax and take it off, but here I am, crazily running experiments for my next research paper deadline ( again ), and you would think that while the experiments are running, I must be chilling and blowing off some steam, but hell no, I can't do anything so sacrilegious to the religion of hyper-productivity that I supposedly became a part of in order to adjust with the “hustle” culture college grads oh-so-religiously follow, and here I am writing a blog instead.
+
+I have observed it as a fact, that I am unable to take off 10 mins and just do nothing during it, my brain starts rummaging about unnecessary things and I start feeling restless to do something, *anything.* So I either check my mobile for new notifs, or start reading some random book or article, or do something else. Even when I am completely free, I don't like being free, its almost disturbing for me to be free or relaxed, I want that dopamine hit that comes when you feel you are being productive, maybe it’s an addiction, just like other drugs. And I have observed that although I do a lot of things in this meaningless fashion, making my self appear busy, I actually get nothing done lol, so maybe it's just a facade for my inability to actually get shit done, that I keep on doing shit.
+
+Now there are a lot of reasons for this, one of them being the rigorous JEE prep I had to go through, where basically you were assumed to be studying all the time, and that leads to me being unable to feel at peace until I was studying something, it has made me treat myself as a machine, context switching between multiple tasks to optimize its CPU utilization ( see, even in blogs I am unable to stop referring to CS stuff, what the hell is wrong with me, why can't I just tune off shit from my head ). Another reason is the constant conditioning by the various social media apps, with their endless stream of notifications, making me check them again and again, and reducing my attention span to maybe 30 secs. Or maybe it’s just the way I am lol. But I think its more of a cultural problem, rather than my individual problem. For people, especially in the IT world, everything becomes about optimizing metrics, whether it might be work-related metrics, like KPI or stuff or unfortunately “metrics” for their personal life ( whatever they might think are metrics here ).
+
+Now sometimes I think what’s bad about this, after all, it just means I am being productive, isn’t that good? Well yes, and no, I think that if such a routine is followed for a long time, it eventually leads to a massive burnout ( I had one last year and it took me around 1.5 months of doing nothing and just reading novels to get out of it ) and also it leads to a lack of creativity. It is said that boredom is important because it is when you are bored, that you figure out what you really want to do, what inspires you to get out of that boring state, and unleash your creative juices. Also, it is not good for your mental health, I suffer from a lot of headaches, and always feel tired, which is weird, since I am not at all sleep-deprived lol, compared to the pre-covid college days, where I was definitely sleep-deprived, but a hell lot more energetic. Also, I guess such routines make you less focused on any particular task since you have a lot of stuff going on your mind ( although they do help you to find correlations among unrelated stuff, that might be hard to find otherwise ).
+
+I have been thinking about this a lot for quite some time, and have developed my own solutions for it. One of them is well, blogging, some people prefer journalling, but both help you to get stuff out of your brain. I have also disconnected myself from most social media and sometimes, often on Sundays, I completely switch off the internet for the evening time and instead just read books or stuff ( something that’s not possible today, due to a deadline). In college I used to leave my mobile in my room sometimes, just to break the notification hook (things like do not disturb, etc which can be easily reversed with a tap, never worked for me ). Music helps a lot as well, listening to calming music relaxes my brain and helps me gain some clarity. But all things said and done, I still struggle from it, and maybe it’ll take a really serious burnout to finally put my mind to rest.
+
+Anyway, I guess that’s all I wanted to say, for now, I could go on and on and on, but idk if that would make things any better, so well, until then, so long!
+
+---
+
+*Originally published on [Medium](https://medium.com/@ayushtues/why-do-we-i-find-doing-nothing-harder-than-doing-something-2e90a809acc3).*

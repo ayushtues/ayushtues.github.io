@@ -78,6 +78,18 @@ sections:
       view: citation
 
   - block: collection
+    id: blog
+    content:
+      title: Recent Posts
+      text: '[See all posts →](blog/)'
+      count: 3
+      filters:
+        folders:
+          - blog
+    design:
+      view: date-title-summary
+
+  - block: collection
     id: videos
     content:
       title: Videos
