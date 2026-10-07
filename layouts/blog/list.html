@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="am-wrap am-archive">
+  <header class="am-archive-head">
+    <h1 class="am-name">{{ .Title }}</h1>
+    {{ with .Params.summary }}<p class="am-section-sub">{{ . }}</p>{{ end }}
+    <p class="am-archive-count">{{ len .RegularPages }} posts since {{ (index .RegularPages.ByDate 0).Date.Year }}</p>
+  </header>
+
+  {{ range .RegularPages.GroupByDate "2006" }}
+  <section class="am-year">
+    <h2 class="am-year-label">{{ .Key }}</h2>
+    {{ partial "am/post-rows" (dict "pages" .Pages "format" "Jan 2") }}
+  </section>
+  {{ end }}
+</div>
+{{ end }}

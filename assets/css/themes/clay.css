@@ -1,0 +1,14 @@
+/* Custom color theme: CLAY (warm terracotta accent) */
+:root {
+  --color-primary-50: 252 246 242;
+  --color-primary-100: 249 234 224;
+  --color-primary-200: 242 208 188;
+  --color-primary-300: 232 173 142;
+  --color-primary-400: 219 128 89;
+  --color-primary-500: 203 96 56;
+  --color-primary-600: 180 76 40;
+  --color-primary-700: 150 61 33;
+  --color-primary-800: 122 51 31;
+  --color-primary-900: 99 44 29;
+  --color-primary-950: 54 21 13;
+}

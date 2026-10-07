@@ -1,0 +1,34 @@
+{{/* Grid of cards with thumbnail, tag, title and summary. Cards link to `external_link` when set. */}}
+{{ $block := .wcBlock }}
+{{ $pages := where site.RegularPages "Section" $block.content.section }}
+{{ $count := $block.content.count | default 0 }}
+{{ if gt $count 0 }}{{ $pages = first $count $pages.ByDate.Reverse }}{{ else }}{{ $pages = $pages.ByDate.Reverse }}{{ end }}
+
+<div class="am-wrap">
+  {{ partial "am/section-head" (dict "title" $block.content.title "subtitle" $block.content.subtitle "more" $block.content.more) }}
+
+  <ul class="am-grid {{ with $block.design.variant }}am-grid--{{ . }}{{ end }}">
+    {{ range $pages }}
+    {{ $url := .Params.external_link | default .RelPermalink }}
+    {{ $external := hasPrefix $url "http" }}
+    <li class="am-card">
+      <a href="{{ $url }}" {{ if $external }}target="_blank" rel="noopener"{{ end }}>
+        <div class="am-card-thumb">
+          {{ with .Resources.GetMatch "featured*" }}
+            {{ $img := .Fill "640x360 Center webp" }}
+            <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="" loading="lazy">
+          {{ else }}
+            <span class="am-card-fallback">{{ substr .Title 0 1 }}</span>
+          {{ end }}
+          {{ if eq $block.design.variant "video" }}<span class="am-play" aria-hidden="true"></span>{{ end }}
+        </div>
+        <div class="am-card-body">
+          {{ with .Params.tags }}<span class="am-tag">{{ index . 0 }}</span>{{ end }}
+          <h3 class="am-card-title">{{ .Title }}</h3>
+          {{ with .Params.summary }}<p class="am-card-summary">{{ . | markdownify | emojify | plainify }}</p>{{ end }}
+        </div>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</div>

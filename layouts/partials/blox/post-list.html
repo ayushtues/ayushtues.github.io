@@ -1,0 +1,8 @@
+{{/* Recent writing: date, title and summary rows. */}}
+{{ $block := .wcBlock }}
+{{ $pages := where site.RegularPages "Section" ($block.content.section | default "blog") }}
+
+<div class="am-wrap">
+  {{ partial "am/section-head" (dict "title" $block.content.title "subtitle" $block.content.subtitle "more" $block.content.more) }}
+  {{ partial "am/post-rows" (dict "pages" (first ($block.content.count | default 5) $pages.ByDate.Reverse)) }}
+</div>

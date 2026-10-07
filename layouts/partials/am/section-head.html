@@ -1,0 +1,6 @@
+{{/* Section heading with optional subtitle and "see all" link. */}}
+<header class="am-section-head">
+  <h2 class="am-section-title">{{ .title }}</h2>
+  {{ with .subtitle }}<p class="am-section-sub">{{ . | markdownify }}</p>{{ end }}
+  {{ with .more }}<a class="am-more" href="{{ .url | relLangURL }}">{{ .text }} <span aria-hidden="true">&rarr;</span></a>{{ end }}
+</header>

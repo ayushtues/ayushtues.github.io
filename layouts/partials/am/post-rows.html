@@ -1,0 +1,13 @@
+{{/* A list of posts as date / title / summary rows. Context: dict with `pages` and optional date `format`. */}}
+<ol class="am-posts">
+  {{ $format := .format | default "Jan 2006" }}
+  {{ range .pages }}
+  <li class="am-post">
+    <time class="am-post-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format $format }}</time>
+    <div>
+      <h3 class="am-post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      {{ with .Params.summary }}<p class="am-post-summary">{{ . }}</p>{{ end }}
+    </div>
+  </li>
+  {{ end }}
+</ol>

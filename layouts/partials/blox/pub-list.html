@@ -1,0 +1,51 @@
+{{/* Publication list: thumbnail, title, authors, venue and link buttons. */}}
+{{ $block := .wcBlock }}
+{{ $pages := where site.RegularPages "Section" "publication" }}
+{{ $me := (site.GetPage "/authors/admin").Title }}
+
+{{/* Labels for the link buttons, in display order. */}}
+{{ $link_fields := slice
+  (dict "key" "url_pdf" "label" "PDF")
+  (dict "key" "url_code" "label" "Code")
+  (dict "key" "url_project" "label" "Project")
+  (dict "key" "url_poster" "label" "Poster")
+  (dict "key" "url_slides" "label" "Slides")
+  (dict "key" "url_video" "label" "Video")
+}}
+
+<div class="am-wrap">
+  {{ partial "am/section-head" (dict "title" $block.content.title "subtitle" $block.content.subtitle) }}
+
+  <ol class="am-pubs">
+    {{ range $pages.ByDate.Reverse }}
+    {{ $venue := .Params.publication_short | default .Params.publication | markdownify | plainify | replaceRE `^In\s+` "" }}
+    {{/* Titles carry the venue in parentheses; it is shown as a badge instead. */}}
+    {{ $title := .Title | replaceRE `\s*\([^()]*\)?\s*$` "" }}
+    <li class="am-pub">
+      <a class="am-pub-thumb" href="{{ .RelPermalink }}" aria-hidden="true" tabindex="-1">
+        {{ with .Resources.GetMatch "featured*" }}
+          {{ $img := .Resize "480x webp" }}
+          <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="" loading="lazy">
+        {{ end }}
+      </a>
+      <div class="am-pub-body">
+        {{ with $venue }}<span class="am-badge">{{ . }}</span>{{ end }}
+        <h3 class="am-pub-title"><a href="{{ .RelPermalink }}">{{ $title }}</a></h3>
+        <p class="am-pub-authors">
+          {{ $n := len .Params.authors }}
+          {{ range $i, $a := .Params.authors }}
+            {{- if eq $a "admin" }}<strong>{{ $me }}</strong>{{ else }}{{ $a }}{{ end -}}
+            {{- if lt (add $i 1) $n }}, {{ end -}}
+          {{ end }}
+        </p>
+        <p class="am-pub-links">
+          {{ $p := . }}
+          {{ range $f := $link_fields }}
+            {{ with index $p.Params $f.key }}<a class="am-pill" href="{{ . }}" target="_blank" rel="noopener">{{ $f.label }}</a>{{ end }}
+          {{ end }}
+        </p>
+      </div>
+    </li>
+    {{ end }}
+  </ol>
+</div>

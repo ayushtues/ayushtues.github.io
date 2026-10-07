@@ -1,0 +1,79 @@
+{{/* Homepage hero: avatar, name, role, bio, links, interests and education. */}}
+{{ $block := .wcBlock }}
+{{ $person_page := site.GetPage (printf "/authors/%s" ($block.content.username | default "admin")) }}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+{{/* Readable labels for the profile icons. */}}
+{{ $labels := dict
+  "envelope" "Email"
+  "brands/x" "Twitter"
+  "academicons/google-scholar" "Scholar"
+  "brands/github" "GitHub"
+  "brands/linkedin" "LinkedIn"
+  "brands/youtube" "YouTube"
+  "brands/medium" "Medium"
+}}
+
+<div class="am-wrap am-hero">
+  <div class="am-hero-main">
+    {{ with $avatar }}
+      {{ $sm := .Fill "240x240 Center webp" }}
+      <img class="am-avatar-sm" src="{{ $sm.RelPermalink }}" width="120" height="120" alt="{{ $person_page.Title }}">
+    {{ end }}
+    <p class="am-kicker">
+      {{ with $person.role }}{{ . | markdownify }}{{ end }}
+      {{ range first 1 $person.organizations }}
+        &middot; {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}{{ .name }}{{ if .url }}</a>{{ end }}
+      {{ end }}
+    </p>
+    <h1 class="am-name">{{ $person_page.Title }}</h1>
+
+    <div class="am-bio">
+      {{ $person_page.Content }}
+    </div>
+
+    <ul class="am-links">
+      {{ range $person.profiles }}
+        {{ $link := .url | default .link }}
+        {{ $external := hasPrefix $link "http" }}
+        <li>
+          <a href="{{ $link | safeURL }}" {{ if $external }}target="_blank" rel="noopener"{{ end }}>
+            {{ partial "functions/get_icon" (dict "name" .icon "attributes" "class=\"am-icon\"") }}
+            <span>{{ index $labels .icon | default (.label | default .icon) }}</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+
+  <aside class="am-hero-side">
+    {{ with $avatar }}
+      {{ $img := .Fill "560x640 Center webp" }}
+      <img class="am-avatar" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $person_page.Title }}">
+    {{ end }}
+
+    {{ with $person.interests }}
+    <div class="am-meta">
+      <h2 class="am-meta-title">Interests</h2>
+      <ul class="am-chips">
+        {{ range . }}<li>{{ . | markdownify | emojify }}</li>{{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    {{ with $person.education }}
+    <div class="am-meta">
+      <h2 class="am-meta-title">Education</h2>
+      <ul class="am-edu">
+        {{ range . }}
+        <li>
+          <span class="am-edu-area">{{ .area }}</span>
+          <span class="am-edu-inst">{{ .institution }}{{ with .date_start }} &middot; {{ (time .).Year }}{{ end }}{{ with .date_end }}&ndash;{{ (time .).Year }}{{ end }}</span>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </aside>
+</div>
